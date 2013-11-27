@@ -13,4 +13,4 @@
 
   Copyright (C) 2012, Sebastian Riedel.
 
-  Licensed under the CC-SA License, Version 3.0 [http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0).
+  Licensed under the CC-SA License, Version 4.0 [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
