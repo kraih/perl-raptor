@@ -1,4 +1,4 @@
-![Raptor](https://raw.github.com/kraih/perl-raptor/master/example.png)
+![Raptor](https://raw.github.com/kraih/perl-raptor/main/example.png)
 
   Perl 5 Raptor.
 
